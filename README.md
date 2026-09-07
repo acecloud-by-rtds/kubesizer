@@ -16,3 +16,11 @@ Included pages:
 - Contact / Suggest a Tool
 
 Support: support@kubesizer.com
+
+## Guide URL structure
+
+Individual guides are stored directly inside the `guides` folder as HTML files. Example:
+
+`guides/kubernetes-cpu-throttling.html`
+
+This produces URLs such as `/guides/kubernetes-cpu-throttling.html` on static hosting platforms such as Vercel.
